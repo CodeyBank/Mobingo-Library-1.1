@@ -1,0 +1,27 @@
+{
+    "Initiator": "jamnk",
+    "UserPrivileges": {
+        "addOperation": "False",
+        "addUser": "False",
+        "changeTheme": "False",
+        "configDB": "False",
+        "removeUser": "False",
+        "viewStatistics": "False"
+    },
+    "dbConfig": {
+        "password": "",
+        "port": "",
+        "username": ""
+    },
+    "fonts": {
+        "fontFamily": "MS Shell Dlg 2",
+        "fontSize": "8"
+    },
+    "notification": {
+        "TurnoffNotif": "False",
+        "allowNotif": "False",
+        "logNotifications": "False"
+    },
+    "selectedTheme": "Theme 1",
+    "targetUser": "8"
+}
