@@ -64,7 +64,7 @@ class MainWindow(QMainWindow, mainApp):
         self.setMinimumSize(startSize)
 
         # Connect to the database
-        self.db = MySQLdb.connect(host='localhost', user='root', password='Thebossm@#995', db="library", port=3310)
+        self.db = MySQLdb.connect(host='', user='', password='', db="", port=)
         self.cur = self.db.cursor()
 
         # Adjust table widgets
